@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { X, ExternalLink, Monitor, Tablet, Smartphone, RotateCw, Sparkles, Check } from 'lucide-react';
 import { PROJECTS_DATA } from '../data/projectsData';
 

@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Code2, Sparkles, Send, PhoneCall, Menu, X, ArrowRight } from 'lucide-react';
 
 interface NavbarProps {

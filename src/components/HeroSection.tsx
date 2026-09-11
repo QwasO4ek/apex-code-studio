@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Terminal, ArrowDown, Sparkles, CheckCircle2, ShieldCheck, Zap, Layers, Play } from 'lucide-react';
 
 interface HeroSectionProps {

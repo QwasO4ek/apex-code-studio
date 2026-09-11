@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { X, Send, MessageCircle, Phone, CheckCircle2, Sparkles } from 'lucide-react';
 import confetti from 'canvas-confetti';
 

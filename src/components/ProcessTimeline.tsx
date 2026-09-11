@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { CalendarDays, CheckCircle, Rocket, ArrowRight, ShieldCheck, FileCheck } from 'lucide-react';
 
 export const ProcessTimeline: React.FC = () => {

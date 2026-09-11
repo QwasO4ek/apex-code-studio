@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Check, X, Sparkles, Zap, Shield, HelpCircle } from 'lucide-react';
 
 export const ComparisonTable: React.FC = () => {

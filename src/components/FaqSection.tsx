@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { FAQ_DATA } from '../data/faqData';
 import { HelpCircle, ChevronDown, Send } from 'lucide-react';
 

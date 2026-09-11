@@ -1,4 +1,4 @@
-﻿import { FaqItem } from '../types';
+import { FaqItem } from '../types';
 
 export const FAQ_DATA: FaqItem[] = [
   {

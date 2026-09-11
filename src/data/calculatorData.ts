@@ -1,4 +1,4 @@
-﻿import { CalculatorPackage, CalculatorModule } from '../types';
+import { CalculatorPackage, CalculatorModule } from '../types';
 
 export const BASE_PACKAGES: CalculatorPackage[] = [
   {

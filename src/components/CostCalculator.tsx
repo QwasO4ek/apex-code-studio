@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { BASE_PACKAGES, ADDON_MODULES } from '../data/calculatorData';
 import { PROJECTS_DATA } from '../data/projectsData';
 import { Calculator, Check, Sparkles, Send, MessageCircle, Clock, Zap, ArrowRight } from 'lucide-react';

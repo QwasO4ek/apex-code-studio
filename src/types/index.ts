@@ -1,4 +1,4 @@
-﻿export type ProjectCategory = 'all' | 'medtech' | 'construction' | 'beauty' | 'auto';
+export type ProjectCategory = 'all' | 'medtech' | 'construction' | 'beauty' | 'auto';
 
 export interface KillerFeature {
   title: string;

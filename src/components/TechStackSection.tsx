@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Cpu, ShieldCheck, Gauge, Smartphone, Code2, Globe, Server, CheckCircle2 } from 'lucide-react';
 
 export const TechStackSection: React.FC = () => {

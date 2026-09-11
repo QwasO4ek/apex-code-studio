@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { ProjectCategory, ProjectTemplate } from '../types';
 import { PROJECTS_DATA } from '../data/projectsData';
 import { 

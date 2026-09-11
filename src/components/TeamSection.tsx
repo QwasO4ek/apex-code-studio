@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { TEAM_MEMBERS, TEAM_VALUES } from '../data/teamData';
 import { Terminal, Palette, Cpu, ShieldCheck, Code, Key, Clock, Headphones, Users } from 'lucide-react';
 
